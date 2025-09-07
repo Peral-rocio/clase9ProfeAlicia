@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")({ sigint: true });
+// const prompt = require("prompt-sync")({ sigint: true });
 
 //******************Ejercicio UNO
 
@@ -11,13 +11,13 @@ const prompt = require("prompt-sync")({ sigint: true });
 
 //SOLUCION
 
-let numeroUno = prompt("INGRESE SU PRIMER NUMERO");
-let numeroDos = prompt ("INGRESE SU SEGUNDO NUMERO");
+// let numeroUno = prompt("INGRESE SU PRIMER NUMERO");
+// let numeroDos = prompt ("INGRESE SU SEGUNDO NUMERO");
 
-if (numeroUno > numeroDos){
-    console.log ( numeroUno + " " + "es mayor a" + " " + numeroDos);
-} else if (numeroUno == numeroDos) {
-    console.log ("Son el mismo numero");
-} else if (numeroUno < numeroDos) {
-    console.log (numeroUno + " " + "es menor a " + " " + numeroDos)
-}
+// if (numeroUno > numeroDos){
+//     console.log ( numeroUno + " " + "es mayor a" + " " + numeroDos);
+// } else if (numeroUno == numeroDos) {
+//     console.log ("Son el mismo numero");
+// } else if (numeroUno < numeroDos) {
+//     console.log (numeroUno + " " + "es menor a " + " " + numeroDos)
+// }
