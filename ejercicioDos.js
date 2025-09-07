@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")({ sigint: true });
+// const prompt = require("prompt-sync")({ sigint: true });
 
 
 //**************Ejercicio DOS 
@@ -13,13 +13,13 @@ const prompt = require("prompt-sync")({ sigint: true });
 // 4. Mostrar un mensaje indicando si el número está dentro o fuera del rango.
 
 
-const rangoMinimo = 3
-const rangoMaximo = 9
+// const rangoMinimo = 3
+// const rangoMaximo = 9
 
-let numeroUsuario =  prompt("ingrese un numero porfavor");
+// let numeroUsuario =  prompt("ingrese un numero porfavor");
 
-if ((numeroUsuario >=3) && (numeroUsuario <=9) ){
-    alert("Se encuentra dentro del Rango Permitido");
-} else {
-    alert ("NO ESTA EN EL RANGO PERMITIDO");
-}
+// if ((numeroUsuario >=3) && (numeroUsuario <=9) ){
+//     alert("Se encuentra dentro del Rango Permitido");
+// } else {
+//     alert ("NO ESTA EN EL RANGO PERMITIDO");
+// }
