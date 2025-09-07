@@ -14,13 +14,13 @@
 
 // *********SOLUCION 
 
-let nombreUsuario = prompt ("ingrese su nombre, porfavor");
+// let nombreUsuario = prompt ("ingrese su nombre, porfavor");
 
-let miNombre = "Rocio"
+// let miNombre = "Rocio"
 
 
-if ( nombreUsuario == miNombre){
-    alert("Hola" + " " + nombreUsuario + " " + "Bienvenido de nuevo");
-} else {
-    alert ("Hola" + " " + nombreUsuario + " " + "LO SIENTO, NO ESTAS EN MI LISTA");   
-}
+// if ( nombreUsuario == miNombre){
+//     alert("Hola" + " " + nombreUsuario + " " + "Bienvenido de nuevo");
+// } else {
+//     alert ("Hola" + " " + nombreUsuario + " " + "LO SIENTO, NO ESTAS EN MI LISTA");   
+// }
